@@ -1,0 +1,63 @@
+[
+  {
+    "questionNo": 1,
+    "question": "Sarah is organizing racks for the trade fair. Multiply the given numbers by arranging them in the blank boxes.(12 × 2)",
+    "options":["1","2","×","2","","","","",""],
+    "answers": ["1","2","×","2","2","4","","",""]
+  },
+  {
+    "questionNo": 2,
+    "question": "Sarah arranges scarves on shelves. Multiply the given numbers in the blank boxes to find how many scarves will be displayed.(21 × 7)",
+    "options":["2","1","×","7","","","","",""],
+    "answers": ["2","1","×","7","4","7","","","1"]
+    
+  },
+  {
+    "questionNo": 3,
+    "question": "Her team helps her to arrange dresses on racks. Multiply the given numbers in the blank boxes to find how many dresses will be displayed.(22 × 3)",
+    "options":["2","2","×","3","","","","",""],
+    "answers": ["2","2","×","3","6","6","","",""]
+  },
+  {
+    "questionNo": 4,
+    "question": "Next she hangs coats on hangers. Multiply the given numbers in the blank boxes to find how many coats will be displayed.(31 × 8)",
+    "options":["3","1","×","8","","","","","","","",""],
+    "answers": ["3","1","×","8","4","8","","","2"]
+  },
+  {
+    "questionNo": 5,
+    "question": "Sarah packs shirts into boxes. Multiply the given numbers in the blank boxes to find how many shirts will be packed.(52 × 2)",
+    "options":["5","2","×","4","","","","",""],
+    "answers": ["5","2","×","4","0","8","","","2"]
+  },
+  {
+    "questionNo": 6,
+    "question": "Sarah displays outfits on mannequins. Multiply the given numbers in the blank boxes to find how many outfits will be displayed.(50 × 5)",
+    "options":["5","0","×","5","","","","",""],
+    "answers": ["5","0","×","5","5","0","","","2"]
+  },
+  {
+    "questionNo": 7,
+    "question": "She prepares gift bags for visitors. Multiply the given numbers in the blank boxes to find how many gifts will be needed.(91 × 9)",
+    "options":["9","1","×","9","","","","",""],
+    "answers": ["9","1","×","9","1","9","","","8"]
+  },
+  {
+    "questionNo": 8,
+    "question": "They arrange skirts on racks. Multiply the given numbers in the blank boxes to find how many skirts will be displayed.(82 × 2)",
+    "options":["8","2","×","2","","","","",""],
+    "answers": ["8","2","×","2","6","4","","","1"]
+  },
+  {
+    "questionNo": 9,
+    "question": "Sarah arranges belts in rows. Multiply the given numbers in the blank boxes to find how many belts will be displayed.(90 × 3)",
+    "options":["9","0","×","3","","","","",""],
+    "answers": ["9","0","×","3","7","0","","","2"]
+  },
+  {
+    "questionNo": 10,
+    "question": "Sarah arranges handbags on racks. Multiply the given numbers in the blank boxes to find how many handbags will be displayed.(61 × 7)",
+    "options":["6","1","×","7","","","","",""],
+    "answers": ["6","1","×","7","2","7","","","4"]
+  }
+]
